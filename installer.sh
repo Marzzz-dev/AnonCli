@@ -7,7 +7,7 @@
 #!/bin/bash
 # =============================================
 # TERMINAL ANONYMOUS INSTALLER
-# Author: @Anonymous
+# Author: @Whois_Marz?
 # Usage: bash installer.sh
 # =============================================
 

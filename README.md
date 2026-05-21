@@ -42,5 +42,14 @@ Custom Terminal untuk Termux dengan tools hacking lengkap + auto-detect system.
 Download Termux dari [F-Droid](https://f-droid.org/repo/com.termux_118.apk) (JANGAN dari Play Store, udah outdated)
 
 ### Step 2: Buka Termux, kasih izin storage
-```bash
+
+### Step 3 Install The Client
+pkg update && pkg upgrade -y
+pkg install git -y
+git clone https://github.com/ANONYMOUS/Terminal-Anonymous
+cd Terminal-Anonymous
+chmod +x installer.sh
+bash installer.sh
+
+```
 termux-setup-storage

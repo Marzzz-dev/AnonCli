@@ -46,7 +46,7 @@ Download Termux dari [F-Droid](https://f-droid.org/repo/com.termux_118.apk) (JAN
 ### Step 3 Install The Client
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/ANONYMOUS/Terminal-Anonymous
+git clone https://github.com/Marzzz-dev/AnonCli.git
 cd Terminal-Anonymous
 chmod +x installer.sh
 bash installer.sh
